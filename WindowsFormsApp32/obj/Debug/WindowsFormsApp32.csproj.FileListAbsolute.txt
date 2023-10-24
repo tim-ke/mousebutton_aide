@@ -1,0 +1,30 @@
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe.config
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.pdb
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.AssemblyReference.cache
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Form1.resources
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Properties.Resources.resources
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.GenerateResource.cache
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.CoreCompileInputs.cache
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.exe
+C:\Users\bravo\source\repos\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.pdb
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.AssemblyReference.cache
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Form1.resources
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Properties.Resources.resources
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.GenerateResource.cache
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.CoreCompileInputs.cache
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.exe
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.pdb
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe.config
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe
+E:\柯廷宗\我的資料\個人-自學課程\minecraft建置\外掛\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.pdb
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe.config
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.pdb
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.AssemblyReference.cache
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Form1.resources
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Properties.Resources.resources
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.GenerateResource.cache
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.csproj.CoreCompileInputs.cache
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.exe
+E:\柯廷宗\我的資料\個人-自學課程\C#\C# Windows Forms (NetFramework)\範例\滑鼠按鍵精靈\WindowsFormsApp32\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.pdb
